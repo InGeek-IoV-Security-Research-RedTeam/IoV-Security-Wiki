@@ -16,15 +16,15 @@
 
 ---
 
-- NFC 安全测试 合集（附带视频） [传送门](papers/2019Q4/nfc安全测试)  
+- NFC 安全测试 合集（附带视频） [传送门](../papers/2019Q4/nfc安全测试)  
 
-- GPS 欺骗 [md](papers/2019Q4/gps欺骗/20201123_sdr_gps欺骗.md)  
+- GPS 欺骗 [md](../papers/2019Q4/gps欺骗/20201123_sdr_gps欺骗.md)  
 
-- ESIM 卡测试 [md](papers/2019Q4/esim安全测试/ESIM卡测试.md) | [pdf](papers/2019Q4/esim安全测试/ESIM卡测试.pdf)  
+- ESIM 卡测试 [md](../papers/2019Q4/esim安全测试/ESIM卡测试.md) | [pdf](../papers/2019Q4/esim安全测试/ESIM卡测试.pdf)  
 
-- BLE 蓝牙安全测试 合集 [传送门](papers/2019Q4/BLE安全测试)  
-    - 蓝牙安全综述 [md](papers/2019Q4/BLE安全测试/蓝牙安全测试.md)  
-    - 传输数据安全 [md](papers/2019Q4/BLE安全测试/传输数据安全.md)  
-    - GATTacker安装与使用 [md](papers/2019Q4/BLE安全测试/GATTacker安装与使用.md)  
+- BLE 蓝牙安全测试 合集 [传送门](../papers/2019Q4/BLE安全测试)  
+    - 蓝牙安全综述 [md](../papers/2019Q4/BLE安全测试/蓝牙安全测试.md)  
+    - 传输数据安全 [md](../papers/2019Q4/BLE安全测试/传输数据安全.md)  
+    - GATTacker安装与使用 [md](../papers/2019Q4/BLE安全测试/GATTacker安装与使用.md)  
 
-- WIFI安全测试 [md](papers/2019Q4/BLE安全测试/wifi安全测试.md)
+- WIFI安全测试 [md](../papers/2019Q4/BLE安全测试/wifi安全测试.md)

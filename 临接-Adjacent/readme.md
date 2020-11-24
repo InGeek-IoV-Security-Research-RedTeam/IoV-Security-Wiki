@@ -12,8 +12,8 @@
 
 --
 
-- USB Fuzz 工具 Umap2 使用 [md](papers/2019Q4/USB\ Fuzz/USB Fuzz工具umap2使用.md) | [pdf](papers/2019Q4/USB\ Fuzz/USB Fuzz工具umap2使用.pdf)  
+- USB Fuzz 工具 Umap2 使用 [md](../papers/2019Q4/USB\ Fuzz/USB Fuzz工具umap2使用.md) | [pdf](../papers/2019Q4/USB\ Fuzz/USB Fuzz工具umap2使用.pdf)  
 
-- 获取车机真实外网IP [md](papers/2019Q4/内网扫描/获取车机真实外网ip.md)  
+- 获取车机真实外网IP [md](../papers/2019Q4/内网扫描/获取车机真实外网ip.md)  
 
-- 车机端流量抓包 [传送门](papers/2019Q4/shell/)  
+- 车机端流量抓包 [传送门](../papers/2019Q4/shell/)  
