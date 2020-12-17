@@ -4,6 +4,7 @@
 
 ```bash
 $ sudo apt-get update && sudo apt-get upgrade -y
+$ sudo apt-get install dkms
 $ git clone https://github.com/aircrack-ng/rtl8812au.git
 $ cd rtl*
 $ make && sudo make install
