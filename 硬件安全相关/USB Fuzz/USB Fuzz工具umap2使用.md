@@ -126,11 +126,17 @@ console=serial0,115200 console=tty1 root=PARTUUID=97709164-02 rootfstype=ext4 el
 
 $ sudo reboot
 .......
+
+#安装pymtpdevice
+$ cd ~/Downloads/
+$ git clone https://github.com/BinyaminSharet/Mtp.git
+$ cd Mtp/ && sudo python -m pip install .
+
 ```
 
 ## 使用
 
-```bash
+``` bash
 # enable gadgetfs
 $ ssh pi@172.31.10.35
 
@@ -140,6 +146,10 @@ $ sudo start_gadgetfs_RaspiZeroW.sh
 # 解压usb镜像
 $ cd ~/Downloads/umap2/data
 $ tar xvf fat32.3M.stick.img.tar
+
+# 创建mtp_fs文件
+$ mkdir mtp_fs
+$ cd mtp_fs/ && touch mtp_fs
 ```
 
 功能简介
