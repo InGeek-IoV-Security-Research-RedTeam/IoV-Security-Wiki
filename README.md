@@ -1,3 +1,11 @@
-# IoV-Security-Wiki
-Research sharing on offense and defense of IoV.
-Shanghai Ingeek IOV Security wifi
+
+
+# :smile:这里是Ingeek的官方IOT知识分享
+
+感谢公司领导同意开放到github:blush:
+
+希望可以一直更新下去，分享测试设备的使用方法，给想进入这个行业的人一些指导。
+
+希望公司的同事能有空把他们的md里面更多的知识分享出来。
+
+加油打工人:+1:
