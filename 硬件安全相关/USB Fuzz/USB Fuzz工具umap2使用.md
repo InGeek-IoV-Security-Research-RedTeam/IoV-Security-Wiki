@@ -136,7 +136,7 @@ $ cd Mtp/ && sudo python -m pip install .
 
 ## 使用
 
-``` bash
+```bash
 # enable gadgetfs
 $ ssh pi@172.31.10.35
 
