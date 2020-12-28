@@ -64,7 +64,7 @@ sudo /sbin/ifconfig $1 0.0.0.0 promisc up
 sudo /sbin/brctl addif br0 $1
 sleep 2
 ##启动br0网卡
-$ sudo chmod a+x /etc/qemu-ifup
+$ sudo chmod +x /usr/local/etc/qemu-ifup
 $ sudo /etc/init.d/networking restart
 $ sudo ifdown ens33 #这里是你自己的网卡
 $ sudo ifup br0
