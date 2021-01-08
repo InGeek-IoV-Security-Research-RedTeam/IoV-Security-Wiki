@@ -102,3 +102,5 @@ aboot.img
 > https://markuta.com/how-to-build-a-mips-qemu-image-on-debian/
 >
 > https://blog.csdn.net/weixin_43194921/article/details/104702724
+>
+> https://linuxconfig.org/how-to-switch-back-networking-to-etc-network-interfaces-on-ubuntu-20-04-focal-fossa-linux
